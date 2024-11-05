@@ -1,0 +1,2 @@
+﻿fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_id
+"1",4.00,USD,1,,5400,1
